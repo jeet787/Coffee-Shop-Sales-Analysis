@@ -4,8 +4,13 @@
 ## Overview : 
 This dashboard is for presenting my insights to the regional manager of the coffee chain with 3 different stores.I have created a dashboard which can help me discuss the operations of these stores with my higher-ups. This will be done solely to optimize the operations.
 
+<a href="https://github.com/jeet787/Coffee-Shop-Sales-Analysis/blob/main/Coffee%20Shop%20Sales.xlsx">Dataset Used</a>
+
+<a href="https://github.com/jeet787/Coffee-Shop-Sales-Analysis/blob/main/Coffee%20Shop%20Sales%20Analysis.xlsx">Data Analysis</a>
+
+
 ## Tool used :
-<img src="./microsoft-excel.png" width="300" height="150"/>&nbsp;
+<img src="https://github.com/jeet787/Coffee-Shop-Sales-Analysis/blob/main/Excel%20Image.jpg" width="300" height="300"/>&nbsp;
 
 
 ## Result and Insights :
@@ -28,4 +33,4 @@ This dashboard is for presenting my insights to the regional manager of the coff
 I have noticed that the bottom products for all the stores include some flavours and other products like coffee beans. Also, the merchandise clothing for Hell's Kitchen is way less as compared to other stores. We shall provide some discount offers to this store to increase sales. Or else completely remove it from displaying at this store and keep it available on order only. This shall help us reduce the costs of operations.
 
 ## Dashboard :
-<img src="./Dashboard.png" width="3000" height="600"/>&nbsp;
+<img src="https://github.com/jeet787/Coffee-Shop-Sales-Analysis/blob/main/Dashboard.png" width="3000" height="600"/>&nbsp;
